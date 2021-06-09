@@ -1,9 +1,9 @@
 # SPH
 Smoothed Particle Hydrodynamics (SPH) using OpenMP
 
-![](sph_coarse_dense.png)
+![](sph_results.png)
 
-Figs: Snapshot of 20x10 m tank with 2000 particles (left), 20000 particles (right). Timings: 2000 particles ~ 1 min for 4s of real time, 20000 particles ~ 15 min for 4s of real time, (time-step: 0.0001s ran on an 8-core i5 CPU).
+Figs: Indicative snapshots of 20x10 m tank with 2000 particles (left), 20000 particles (right). Timings: 2000 particles ~ 1 min for 4s of real time, 20000 particles ~ 15 min for 4s of real time, (time-step: 0.0001s ran on an 8-core i5 CPU).
 
 
 
