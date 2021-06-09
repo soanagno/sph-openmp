@@ -9,12 +9,12 @@ Figs: Indicative snapshots of 20x10 m tank with 2000 particles (left), 20000 par
 
 ***Compilation***
 
-- with OpenMP: 
+with OpenMP: 
 ```
 g++ sph.cpp -O3 -fopenmp
 ```
 
-- without OpenMP:
+without OpenMP:
 ```
 g++ sph.cpp -O3
 ```
