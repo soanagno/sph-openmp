@@ -1,12 +1,13 @@
 # SPH
 Smoothed Particle Hydrodynamics (SPH) using OpenMP
 
-OpenMP compilation:
+# # Compilation
 
-g++ sph.cpp -O3 -fopenmp
+with OpenMP: g++ sph.cpp -O3 -fopenmp
 
-Normal compilation:
+without OpenMP: g++ sph.cpp -O3
 
-g++ sph.cpp -O3
+# # Post processing
+
 
 Further implementations:
