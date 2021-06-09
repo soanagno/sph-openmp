@@ -2,10 +2,12 @@
 Smoothed Particle Hydrodynamics (SPH) using OpenMP
 
 ![](sph_coarse.png)
+
 Fig1: Snapshot of 2000 particles.
 
 ![](sph_dense.png)
-Fig2: Snapshot of 40000 particles.
+
+Fig2: Snapshot of 20000 particles.
 
 
 **Compilation**
