@@ -333,7 +333,7 @@ int main() {
     double print_count = 0;
 
     // Particles
-    n = 20000;
+    n = 5000;
     // Density
     Rho = 1000;
 
