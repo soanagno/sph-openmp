@@ -1,4 +1,4 @@
-# SPH
+# # SPH
 Smoothed Particle Hydrodynamics (SPH) using OpenMP
 
 ![](sph_results.png)
