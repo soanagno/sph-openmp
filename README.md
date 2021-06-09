@@ -24,7 +24,7 @@ python3 post_sph.py
 ***Further implementations***
 
 - Pre-computed Kernel and Grad functions.
-- 2nd order time integration method (Predictor-Corrector).
+- 2nd order time integration method (Predictor-Corrector), for stability and larger time-step.
 - Stencil for faster neighbor calculations (only once per particle).
 - GPU enabled computations.
 - Print results to binary.
