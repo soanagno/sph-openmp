@@ -1,5 +1,5 @@
 # SPH on OpenMP
-Smoothed Particle Hydrodynamics (SPH) using OpenMP
+Smoothed Particle Hydrodynamics (SPH) simulation using OpenMP
 
 ![](sph_results.png)
 
